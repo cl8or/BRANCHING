@@ -2,3 +2,5 @@ chickfila down 336 pts
 google up 367899964 pts
 
 apple up 32 pts
+
+nintendo up 356 pts
