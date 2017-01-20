@@ -7,3 +7,5 @@ nintendo up 356 pts
 comcast down 234 pts
 
 sega up 252315
+
+ea down 23098
