@@ -5,3 +5,5 @@ apple up 32 pts
 
 nintendo up 356 pts
 comcast down 234 pts
+
+ea down 23098
